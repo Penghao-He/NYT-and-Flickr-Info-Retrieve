@@ -1,0 +1,2 @@
+KEYWORD = 'Trump'
+['palestinians', 'distraction', 'priorities', 'ideology', 'revisionist']
